@@ -7,3 +7,4 @@ collections:
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-feed
