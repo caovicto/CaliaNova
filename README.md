@@ -28,3 +28,9 @@ chapter_folder: chapter_<number>
 ##Adding Cover
 1.Go to assets/main
 2. replace 'latest-cover.png'
+
+## Local Testing
+```
+bundle exec jekyll serve
+```
+

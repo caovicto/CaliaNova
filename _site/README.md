@@ -1,14 +1,3 @@
-# CaliaNova
-## Latest Update
-If you want to change the latest update page, then open _config.yml
-
-```
-lastPage: 2
-```
-
-
-and change the line to whatever page number you want.
-
 ## Adding Chapter
 1. Click _archive folder
 2. Create new md file in _archive, named chapter_<number>.md
@@ -35,3 +24,13 @@ chapter_folder: chapter_<number>
 ## Adding Pages
 1. Click on assets folder
 2. Click add files and add in files
+
+##Adding Cover
+1.Go to assets/main
+2. replace 'latest-cover.png'
+
+## Local Testing
+```
+bundle exec jekyll serve
+```
+

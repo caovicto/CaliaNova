@@ -15,6 +15,13 @@ text set in the data-text attribute. */
     height: 100%;
 }
 
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+}  
 
 .simple-list {
     ul {
