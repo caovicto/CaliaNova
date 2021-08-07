@@ -16,6 +16,6 @@ title: Archive
         </ul>
     </div>
     <div class="flex-child" >
-        <script type="text/javascript" src="https://urldefense.com/v3/__https://spiderforest.com/widgets/portrait-banner.php?g=false&id=cano__;!!HXCxUKc!gb6h71eHmbBw3CiKzP_Eab2N1U5fUKNDG3uTYWdgdfc1YM74WxgGw7r1rMs69PE$ "></script>
+        <script type="text/javascript" src="https://spiderforest.com/widgets/portrait-banner.php?g=false&id=cano"></script>
     </div>
 </div>
