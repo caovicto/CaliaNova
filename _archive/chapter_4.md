@@ -1,3 +1,4 @@
+---
 layout: chapter
 title: Chapter <4>
 chapter_folder: chapter_<4>
