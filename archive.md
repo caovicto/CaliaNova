@@ -16,6 +16,5 @@ title: Archive
         </ul>
     </div>
     <div class="flex-child" >
-        <script type="text/javascript" src="https://spiderforest.com/widgets/portrait-banner.php?g=false&id=cano"></script>
     </div>
 </div>
