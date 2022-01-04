@@ -11,7 +11,7 @@ However, not all is as it seems; she’s soon swept up in politics and rivalries
 <br>
 <br>
 
-Updates Mondays, Wednesdays, and Fridays. Full issues are released ahead of schedule on <a href="https://app.gumroad.com/chiptunemacaroon">Gumroad</a>, and indivdual pages are posted on <a href="https://www.patreon.com/chiptunemacaroon">Patreon</a> as they are finished; the site several pages behind.
+Updates Mondays, Wednesdays, and Fridays. Full issues are released ahead of schedule on <a href="https://app.gumroad.com/chiptunemacaroon">Gumroad</a>, and indivdual pages are posted on <a href="https://www.patreon.com/chiptunemacaroon">Patreon</a> as they are finished; the site runs several pages behind.
 
 
 Calia Nova is written and illustrated by <a href="https://www.oliviabarone.com/about">Olivia Barone</a>. 
