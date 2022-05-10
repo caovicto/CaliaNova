@@ -1,7 +1,0 @@
----
-layout: chapter
-title: Chapter 5_Part_2
-chapter_folder: chapter_<5.5>
----
-
-{% include comic.html chapter_folder=page.chapter_folder %}
