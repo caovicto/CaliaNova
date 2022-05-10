@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Chapter 5a
+title: Chapter 5 Part 2
 chapter_folder: chapter_5
 ---
 
